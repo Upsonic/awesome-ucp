@@ -60,13 +60,13 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 <br>
 
 ## Learning Resources
-
+- [Admetrics – “What is Google UCP? Complete Guide for DTC Brands”](https://www.admetrics.io/de/post/what-is-google-ucp) - Practical, marketing‑ and measurement‑focused overview of Google UCP targeted at ecommerce and DTC teams, covering what it is, why it matters, and how brands can prepare.
 - [Building the Universal Commerce Protocol](https://shopify.engineering/UCP) - Shopify's deep dive into UCP architecture, capabilities, and how AI agents conduct transactions with merchants
 - [Under the Hood: Universal Commerce Protocol](https://developers.googleblog.com/under-the-hood-universal-commerce-protocol-ucp/) - Google's technical overview of UCP as an open-source standard for agentic commerce
 - [Etsy Partners with Google on AI-Powered Shopping](https://www.etsy.com/news/etsy-partners-with-google-on-ai-powered-shopping) - Etsy's announcement about partnering with Google on UCP-powered shopping experiences
 - [The Agentic Commerce Platform: Shopify Connects Any Merchant to Every AI Conversation](https://www.shopify.com/news/ai-commerce-at-scale) - Shopify's announcement of UCP and native commerce integrations across AI channels
 - [Target's New Shopping Experience on Google](https://corporate.target.com/press/fact-sheet/2026/01/google-gemini-2026) - Target's fact sheet on their UCP-powered shopping experience in Google AI Mode and Gemini app
-- [Admetrics – “What is Google UCP? Complete Guide for DTC Brands”](https://www.admetrics.io/de/post/what-is-google-ucp) - Practical, marketing‑ and measurement‑focused overview of Google UCP targeted at ecommerce and DTC teams, covering what it is, why it matters, and how brands can prepare.
+
 
 <br>
 
@@ -86,9 +86,10 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 ## Related Protocols
 
 - [MCP (Model Context Protocol)](https://modelcontextprotocol.io/) - Open protocol for AI model interactions
+- [ACP (Agent Commerce Protocol)](https://agentic-commerce-protocol.com) - Agentic Commerce Protocol (ACP) – official site High‑level description of ACP as an open standard for AI‑native commerce.
 - [A2A (Agent2Agent)](https://github.com/google/A2A) - Protocol for agent-to-agent communication
 - [AP2 (Agent Payments Protocol)](https://github.com/google-agentic-commerce/AP2) - Secure payment protocol with cryptographic consent
-- [ACP (Agent Commerce Protocol)](https://agentic-commerce-protocol.com) - Agentic Commerce Protocol (ACP) – official site High‑level description of ACP as an open standard for AI‑native commerce, including goals, primitives, and reference flows, useful for comparing with UCP.
+
 
 <br>
 
