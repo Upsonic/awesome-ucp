@@ -18,10 +18,10 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 ## Official Resources
 
 - [Documentation](https://ucp.dev/) - Protocol overview, core concepts, and design principles
-- [GitHub Repository](https://github.com/anthropics/ucp) - Technical spec, SDKs, and reference implementations
-- [Specification](https://ucp.dev/specification/) - Complete technical specification
+- [GitHub Repository](https://github.com/Universal-Commerce-Protocol/ucp) - Technical spec, SDKs, and reference implementations
+- [Specification](https://ucp.dev/specification/overview/) - Complete technical specification
 - [Playground](https://ucp.dev/playground/) - Experiment with the protocol
-- [Roadmap](https://ucp.dev/roadmap/) - Future development plans
+- [Roadmap](https://ucp.dev/documentation/roadmap/) - Future development plans
 
 ## Legend
 
