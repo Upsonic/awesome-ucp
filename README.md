@@ -91,6 +91,8 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 
 [UCP](https://ucp.dev/) is an open protocol that defines building blocks for agentic commerce—from discovering and buying to post-purchase experiences—allowing platforms, AI agents, and businesses to interoperate through one standard. Built on REST and JSON-RPC transports with MCP, A2A, and AP2 support built-in.
 
+<br>
+
 ## Official Resources
 
 - [Documentation](https://ucp.dev/) - Protocol overview, core concepts, and design principles
@@ -98,6 +100,8 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 - [Specification](https://ucp.dev/specification/overview/) - Complete technical specification
 - [Playground](https://ucp.dev/playground/) - Experiment with the protocol
 - [Roadmap](https://ucp.dev/documentation/roadmap/) - Future development plans
+
+<br>
 
 ## Legend
 
@@ -116,6 +120,8 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
   * 🏪 – Merchant/Business
   * 🤖 – AI Platform/Agent
   * 💳 – Payment Provider
+
+<br>
 
 ## Adopters & Endorsers
 
@@ -155,6 +161,8 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 - [Ulta](https://ulta.com)
 - [Zalando](https://zalando.com)
 
+<br>
+
 ## Implementations
 
 - 🎖️🐍 [Official Python SDK](https://github.com/Universal-Commerce-Protocol/python-sdk) - The official Python library for UCP with Pydantic models
@@ -162,15 +170,20 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 - ☁️🏪 [Google UCP Merchant Docs](https://developers.google.com/merchant/ucp) - Guide for merchants to enable AI-powered purchases through Google's AI surfaces like Search AI Mode and Gemini
 - ☁️🏪 [Shopify - Agentic Commerce with UCP](https://shopify.dev/docs/agents) - Framework for building AI agents that search products, create checkouts, and track orders across Shopify merchants
 
+<br>
 
 ## AI & Agent Integrations
 
 - 🤖🐍 [UCP Agent Demo](https://github.com/Upsonic/UCP-Agent) - A shopping assistant powered by Upsonic AI Agent and UCP (Universal Commerce Protocol)
 
+<br>
+
 ## Developer Tools
 
 - 🎖️🐍📇 [UCP Samples](https://github.com/Universal-Commerce-Protocol/samples) - Sample implementations including Python and Node.js merchant servers and client scripts
 - [UCP Demo Playground](https://ucp-demo.web.app) - Community-created playground demo built using Google's guide
+
+<br>
 
 ## Learning Resources
 
@@ -180,11 +193,15 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 - [The Agentic Commerce Platform: Shopify Connects Any Merchant to Every AI Conversation](https://www.shopify.com/news/ai-commerce-at-scale) - Shopify's announcement of UCP and native commerce integrations across AI channels
 - [Target's New Shopping Experience on Google](https://corporate.target.com/press/fact-sheet/2026/01/google-gemini-2026) - Target's fact sheet on their UCP-powered shopping experience in Google AI Mode and Gemini app
 
+<br>
+
 ## Related Protocols
 
 - [MCP (Model Context Protocol)](https://modelcontextprotocol.io/) - Open protocol for AI model interactions
 - [A2A (Agent2Agent)](https://github.com/google/A2A) - Protocol for agent-to-agent communication
 - [AP2 (Agent Payments Protocol)](https://github.com/google-agentic-commerce/AP2) - Secure payment protocol with cryptographic consent
+
+<br>
 
 ---
 
