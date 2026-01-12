@@ -96,7 +96,8 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 
 ## Learning Resources
 
-> 🚧 Coming soon - Articles, tutorials, and case studies
+- [Building the Universal Commerce Protocol](https://shopify.engineering/UCP) - Shopify's deep dive into UCP architecture, capabilities, and how AI agents conduct transactions with merchants
+- [Under the Hood: Universal Commerce Protocol](https://developers.googleblog.com/under-the-hood-universal-commerce-protocol-ucp/) - Google's technical overview of UCP as an open-source standard for agentic commerce
 
 ## Related Protocols
 
