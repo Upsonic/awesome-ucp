@@ -72,6 +72,9 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 - [Etsy Partners with Google on AI-Powered Shopping](https://www.etsy.com/news/etsy-partners-with-google-on-ai-powered-shopping) - Etsy's announcement about partnering with Google on UCP-powered shopping experiences
 - [The Agentic Commerce Platform: Shopify Connects Any Merchant to Every AI Conversation](https://www.shopify.com/news/ai-commerce-at-scale) - Shopify's announcement of UCP and native commerce integrations across AI channels
 - [Target's New Shopping Experience on Google](https://corporate.target.com/press/fact-sheet/2026/01/google-gemini-2026) - Target's fact sheet on their UCP-powered shopping experience in Google AI Mode and Gemini app
+- [The Agentic Commerce Wave](https://adaptordie.io/blog/agentic-commerce-wave) - Independent analysis exploring the fundamental shift toward agent-driven commerce and the protocols like UCP that enable seamless AI-powered transactions
+- [Shopify Not Ready for Agentic Commerce](https://adaptordie.io/blog/agentic-commerce-shopify-not-ready) - Critical examination of how major e-commerce platforms are adapting to agentic commerce standards and UCP implementation challenges
+- [SaaSpocalypse: Seat Pricing Dead](https://adaptordie.io/blog/saaspocalypse-seat-pricing-dead) - Analysis of how agentic commerce protocols are disrupting traditional SaaS business models and creating new monetization approaches
 
 
 <br>
