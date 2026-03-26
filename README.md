@@ -56,6 +56,7 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 - [UCP Demo Playground](https://ucp-demo.web.app) - Community-created playground demo built using Google's guide
 - ✅ [UCP Lighthouse](https://ucp.rest) - Validate UCP & Community payloads. The ultimate OpenAI / ChatGPT Agentic Commerce schema validator to ensure your products are ready for the AI era.
 - ☁️🛠️ [UCP Doctor](https://doctor.awesomeucp.com) - Diagnostic tool for validating Universal Commerce Protocol implementations
+- 🐍🤖 [UCP Onboard](https://github.com/recomby-ai/ucp-onboard) - AI agent skills for onboarding merchants to UCP. Audit readiness, generate profiles, map catalogs, validate integrations. Tested against live Shopify stores.
 
 <br>
 
