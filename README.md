@@ -39,6 +39,7 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 - ☁️🏪 [Shopify - Agentic Commerce with UCP](https://shopify.dev/docs/agents) - Framework for building AI agents that search products, create checkouts, and track orders across Shopify merchants
 - ☁️🏪 [UCPStore](https://ucpstore.dev) - Service that transforms existing e-commerce stores (Shopify, WooCommerce, BigCommerce, etc.) into UCP-compatible endpoints without platform migration
 - ☁️🏪 [UCP Merchants](https://merchants.awesomeucp.com) - Directory of verified UCP-enabled merchants compatible with AI shopping agents
+- 🟨 [UCP JavaScript SDK](https://github.com/OmnixHQ/ucp-js-sdk) – Runtime-validated Zod schemas and TypeScript types for the Universal Commerce Protocol. Auto-generated from the UCP JSON Schema spec with 100% coverage — checkout, orders, payments, payment handlers, fulfillment, discounts, buyer consent, AP2 mandates, discovery profiles (platform & business), identity linking, catalog, cart, and all inline enums. Supports MCP, A2A, REST, and Embedded transport bindings. Dual ESM/CJS build. Available on [npm](https://www.npmjs.com/package/@omnixhq/ucp-js-sdk).
 
 <br>
 
