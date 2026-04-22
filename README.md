@@ -66,7 +66,8 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 <br>
 
 ## Learning Resources
-- [Admetrics – “What is Google UCP? Complete Guide for DTC Brands”](https://www.admetrics.io/de/post/what-is-google-ucp) - Practical, marketing‑ and measurement‑focused overview of Google UCP targeted at ecommerce and DTC teams, covering what it is, why it matters, and how brands can prepare.
+- [Universal Commerce Protocol Blog](https://universalcommerceprotocol.blog/) - Comprehensive French-language reference covering UCP definitions, glossary, FAQ, merchant readiness checklist, case studies, agentic commerce guides, and Schema.org/MCP integration resources. Includes English mirror at /en/.
+- [Admetrics – "What is Google UCP? Complete Guide for DTC Brands"](https://www.admetrics.io/de/post/what-is-google-ucp) - Practical, marketing‑ and measurement‑focused overview of Google UCP targeted at ecommerce and DTC teams, covering what it is, why it matters, and how brands can prepare.
 - [Building the Universal Commerce Protocol](https://shopify.engineering/UCP) - Shopify's deep dive into UCP architecture, capabilities, and how AI agents conduct transactions with merchants
 - [Under the Hood: Universal Commerce Protocol](https://developers.googleblog.com/under-the-hood-universal-commerce-protocol-ucp/) - Google's technical overview of UCP as an open-source standard for agentic commerce
 - [Etsy Partners with Google on AI-Powered Shopping](https://www.etsy.com/news/etsy-partners-with-google-on-ai-powered-shopping) - Etsy's announcement about partnering with Google on UCP-powered shopping experiences
