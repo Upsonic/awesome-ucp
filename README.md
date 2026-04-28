@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/upsonic-awesome-ucp-badge.png)](https://mseep.ai/app/upsonic-awesome-ucp)
+
 # Awesome UCP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, and implementations.
