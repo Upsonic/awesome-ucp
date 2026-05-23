@@ -36,6 +36,7 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 - 🎖️🐍 [Official Python SDK](https://github.com/Universal-Commerce-Protocol/python-sdk) - The official Python library for UCP with Pydantic models
 - 🐍 [UCP Client Python](https://github.com/Upsonic/ucp-client-python) - Python client library for UCP
 - ☁️🏪 [Google UCP Merchant Docs](https://developers.google.com/merchant/ucp) - Guide for merchants to enable AI-powered purchases through Google's AI surfaces like Search AI Mode and Gemini
+- 🏠🏪 [Magento 2 — angeo/module-ucp](https://github.com/angeo-dev/module-ucp) - Spec-compliant UCP profile generator for Magento 2. Serves `/.well-known/ucp` at protocol version `2026-04-08` with ECDSA P-256 signing keys, declared capabilities, and proper cache headers. Profile-only beta — REST endpoints land in later versions.
 - ☁️🏪 [Shopify - Agentic Commerce with UCP](https://shopify.dev/docs/agents) - Framework for building AI agents that search products, create checkouts, and track orders across Shopify merchants
 - ☁️🏪 [UCPStore](https://ucpstore.dev) - Service that transforms existing e-commerce stores (Shopify, WooCommerce, BigCommerce, etc.) into UCP-compatible endpoints without platform migration
 - ☁️🏪 [UCP Merchants](https://merchants.awesomeucp.com) - Directory of verified UCP-enabled merchants compatible with AI shopping agents
