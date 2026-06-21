@@ -50,6 +50,7 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 
 ## Developer Tools
 
+- 🛡️ [Fidacy Trust-Verdict](https://fidacy.com/ucp/extensions/trust-verdict/v1) - Neutral, independently verifiable trust verdict (approve/review/deny) for agent payments. Rides UCP's `signals` as `com.fidacy.trust_verdict`; verify offline with the open-source [@fidacy/verify](https://www.npmjs.com/package/@fidacy/verify).
 - 🤖 [UCP.tools](https://ucptools.dev) - Free UCP profile validator and generator. Checks Schema.org compliance, product feed quality, and AI commerce readiness.
 - ☁️🛠️ [UCP Checker](https://ucpchecker.com) - The unofficial industry-standard validator. Lints live UCP manifests for schema compliance, tests API latency, and generates "verified" badges for repositories.
 - 🎖️🐍📇 [UCP Samples](https://github.com/Universal-Commerce-Protocol/samples) - Sample implementations including Python and Node.js merchant servers and client scripts
