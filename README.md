@@ -45,6 +45,7 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 ## AI & Agent Integrations
 
 - 🤖🐍 [UCP Agent Demo](https://github.com/Upsonic/UCP-Agent) - A shopping assistant powered by Upsonic AI Agent and UCP (Universal Commerce Protocol)
+- 🤖💳 [AgentServices](https://agentservices.to) - x402-paid data API platform for AI agents (54 services, 37 MCP tools, crypto/market/financial data)
 
 <br>
 
@@ -95,6 +96,7 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 - [ACP (Agent Commerce Protocol)](https://agentic-commerce-protocol.com) - Agentic Commerce Protocol (ACP) – official site High‑level description of ACP as an open standard for AI‑native commerce.
 - [A2A (Agent2Agent)](https://github.com/google/A2A) - Protocol for agent-to-agent communication
 - [AP2 (Agent Payments Protocol)](https://github.com/google-agentic-commerce/AP2) - Secure payment protocol with cryptographic consent
+- [x402](https://x402.org) - HTTP-native payment protocol using the 402 Payment Required status code for agent micropayments (Linux Foundation governance)
 
 
 <br>
