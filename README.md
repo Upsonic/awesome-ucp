@@ -56,6 +56,7 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 - [UCP Demo Playground](https://ucp-demo.web.app) - Community-created playground demo built using Google's guide
 - ✅ [UCP Lighthouse](https://ucp.rest) - Validate UCP & Community payloads. The ultimate OpenAI / ChatGPT Agentic Commerce schema validator to ensure your products are ready for the AI era.
 - ☁️🛠️ [UCP Doctor](https://doctor.awesomeucp.com) - Diagnostic tool for validating Universal Commerce Protocol implementations
+- ☁️🐍 [spck.dev](https://spck.dev) - Behavioral conformance testing for UCP merchant servers and shopping agents: spec-cited checks across all three UCP versions, with a hosted checker, a pip CLI (`spck-conformance`), and a [GitHub Action](https://github.com/vishkaty/spck-conformance-action) for CI gating.
 
 <br>
 
