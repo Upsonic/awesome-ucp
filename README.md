@@ -38,6 +38,7 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 - ☁️🏪 [Google UCP Merchant Docs](https://developers.google.com/merchant/ucp) - Guide for merchants to enable AI-powered purchases through Google's AI surfaces like Search AI Mode and Gemini
 - ☁️🏪 [Shopify - Agentic Commerce with UCP](https://shopify.dev/docs/agents) - Framework for building AI agents that search products, create checkouts, and track orders across Shopify merchants
 - ☁️🏪 [UCPStore](https://ucpstore.dev) - Service that transforms existing e-commerce stores (Shopify, WooCommerce, BigCommerce, etc.) into UCP-compatible endpoints without platform migration
+- ☁️🏪 [KaliCart Global](https://github.com/giuseppesocci-bot/kalicart-global#ucp-catalog) - UCP Catalog (search + lookup) across independent WooCommerce stores that opted in via the KaliCart Bridge plugin, with the seller on every variant and live price and availability read from the merchant
 - ☁️🏪 [UCP Merchants](https://merchants.awesomeucp.com) - Directory of verified UCP-enabled merchants compatible with AI shopping agents
 
 <br>
