@@ -50,6 +50,7 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 
 ## Developer Tools
 
+- ☁️🛠️ [AgentBI](https://agentbi.tech) - Daily cross-store scanner, not a single-site validator: re-scans 225 stores every day for /.well-known/ucp, UCP version drift, Product JSON-LD, /llms.txt, and whether real agent UAs get a different response than a browser UA. Publishes a public leaderboard with day-over-day diffs. Open source: [github.com/JamesChief/agentbi](https://github.com/JamesChief/agentbi)
 - 🤖 [UCP.tools](https://ucptools.dev) - Free UCP profile validator and generator. Checks Schema.org compliance, product feed quality, and AI commerce readiness.
 - ☁️🛠️ [UCP Checker](https://ucpchecker.com) - The unofficial industry-standard validator. Lints live UCP manifests for schema compliance, tests API latency, and generates "verified" badges for repositories.
 - 🎖️🐍📇 [UCP Samples](https://github.com/Universal-Commerce-Protocol/samples) - Sample implementations including Python and Node.js merchant servers and client scripts
