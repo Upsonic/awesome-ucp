@@ -72,6 +72,7 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 - [Etsy Partners with Google on AI-Powered Shopping](https://www.etsy.com/news/etsy-partners-with-google-on-ai-powered-shopping) - Etsy's announcement about partnering with Google on UCP-powered shopping experiences
 - [The Agentic Commerce Platform: Shopify Connects Any Merchant to Every AI Conversation](https://www.shopify.com/news/ai-commerce-at-scale) - Shopify's announcement of UCP and native commerce integrations across AI channels
 - [Target's New Shopping Experience on Google](https://corporate.target.com/press/fact-sheet/2026/01/google-gemini-2026) - Target's fact sheet on their UCP-powered shopping experience in Google AI Mode and Gemini app
+- [UCP, ACP, AP2 and MCP: which one does your store actually need?](https://aismith.dev/insights/ucp-acp-ap2-mcp-which-protocol-do-you-need) - Merchant focused comparison of UCP with ACP, AP2 and MCP, layer by layer, with what to do depending on where a store sells
 
 
 <br>
